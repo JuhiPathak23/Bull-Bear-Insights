@@ -4,7 +4,7 @@ Welcome to the **Bull and Bear Insights** notebook! This project is designed to 
 
 ## 🔍 What is EDA?
 
-Exploratory Data Analysis (EDA) is a crucial step in data analysis that involves summarizing and visualizing data to uncover patterns, anomalies, and insights. Promoted by John Tukey, EDA helps in forming hypotheses and preparing data for further modeling. It includes checking assumptions, handling missing values, and transforming variables. 
+Exploratory Data Analysis (EDA) is a crucial step in data analysis that involves summarizing and visualizing data to uncover patterns, anomalies, & insights. Promoted by John Tukey, EDA helps in forming hypotheses and preparing data for further modeling. It includes checking assumptions, handling missing values, and transforming variables. 
 
 ### Types of EDA:
 
