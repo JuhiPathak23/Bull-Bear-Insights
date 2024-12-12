@@ -60,7 +60,7 @@ Compares mean values of stock prices and trading metrics between JPMorgan Chase 
 - `JPMorgan Chase.csv`: Historical stock prices for JPMorgan Chase.
 - `The Goldman Sachs.csv`: Historical stock prices for Goldman Sachs.
 
-## 📖 Example Usage
+## 📖 Example Usage to implement
 
 ```python
 import pandas as pd
